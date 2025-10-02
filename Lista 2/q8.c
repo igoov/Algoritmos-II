@@ -39,7 +39,7 @@ int main() {
         }
         printf("\n");
     }
-    
+     
     printf("Contagens:\n");
     for(int i = 0; i <= max; i++) {
         if(contagem[i] > 0) {
