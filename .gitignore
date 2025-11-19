@@ -1,0 +1,7 @@
+# Ignorar a pasta de saída de compilação
+output/
+
+# Ignorar arquivos executáveis e binários comuns
+*.exe
+*.obj
+*.dll
